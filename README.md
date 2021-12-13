@@ -1,218 +1,52 @@
-Contribution: 2021-07-10 20:00
-
-Contribution: 2021-07-10 20:01
-
-Contribution: 2021-07-10 20:02
-
-Contribution: 2021-07-10 20:03
-
-Contribution: 2021-07-10 20:04
-
-Contribution: 2021-07-10 20:05
-
-Contribution: 2021-07-10 20:06
-
-Contribution: 2021-07-10 20:07
-
-Contribution: 2021-07-10 20:08
-
-Contribution: 2021-07-12 20:00
-
-Contribution: 2021-07-12 20:01
-
-Contribution: 2021-07-12 20:02
-
-Contribution: 2021-07-12 20:03
-
-Contribution: 2021-07-12 20:04
-
-Contribution: 2021-07-12 20:05
-
-Contribution: 2021-07-12 20:06
-
-Contribution: 2021-07-12 20:07
-
-Contribution: 2021-07-12 20:08
-
-Contribution: 2021-07-13 20:00
-
-Contribution: 2021-07-13 20:01
-
-Contribution: 2021-07-13 20:02
-
-Contribution: 2021-07-13 20:03
-
-Contribution: 2021-07-13 20:04
-
-Contribution: 2021-07-13 20:05
-
-Contribution: 2021-07-13 20:06
-
-Contribution: 2021-07-13 20:07
-
-Contribution: 2021-07-13 20:08
-
-Contribution: 2021-07-13 20:09
-
-Contribution: 2021-07-14 20:00
-
-Contribution: 2021-07-14 20:01
-
-Contribution: 2021-07-14 20:02
-
-Contribution: 2021-07-14 20:03
-
-Contribution: 2021-07-14 20:04
-
-Contribution: 2021-07-14 20:05
-
-Contribution: 2021-07-14 20:06
-
-Contribution: 2021-07-14 20:07
-
-Contribution: 2021-07-14 20:08
-
-Contribution: 2021-07-14 20:09
-
-Contribution: 2021-07-14 20:10
-
-Contribution: 2021-07-14 20:11
-
-Contribution: 2021-07-15 20:00
-
-Contribution: 2021-07-15 20:01
-
-Contribution: 2021-07-15 20:02
-
-Contribution: 2021-07-15 20:03
-
-Contribution: 2021-07-15 20:04
-
-Contribution: 2021-07-16 20:00
-
-Contribution: 2021-07-16 20:01
-
-Contribution: 2021-07-16 20:02
-
-Contribution: 2021-07-16 20:03
-
-Contribution: 2021-07-16 20:04
-
-Contribution: 2021-07-16 20:05
-
-Contribution: 2021-07-16 20:06
-
-Contribution: 2021-07-17 20:00
-
-Contribution: 2021-07-17 20:01
-
-Contribution: 2021-07-17 20:02
-
-Contribution: 2021-07-17 20:03
-
-Contribution: 2021-07-17 20:04
-
-Contribution: 2021-07-17 20:05
-
-Contribution: 2021-07-17 20:06
-
-Contribution: 2021-07-17 20:07
-
-Contribution: 2021-07-17 20:08
-
-Contribution: 2021-07-18 20:00
-
-Contribution: 2021-07-18 20:01
-
-Contribution: 2021-07-18 20:02
-
-Contribution: 2021-07-18 20:03
-
-Contribution: 2021-07-18 20:04
-
-Contribution: 2021-07-18 20:05
-
-Contribution: 2021-07-18 20:06
-
-Contribution: 2021-07-20 20:00
-
-Contribution: 2021-07-20 20:01
-
-Contribution: 2021-07-20 20:02
-
-Contribution: 2021-07-20 20:03
-
-Contribution: 2021-07-20 20:04
-
-Contribution: 2021-07-20 20:05
-
-Contribution: 2021-07-23 20:00
-
-Contribution: 2021-07-23 20:01
-
-Contribution: 2021-07-23 20:02
-
-Contribution: 2021-07-23 20:03
-
-Contribution: 2021-07-23 20:04
-
-Contribution: 2021-07-23 20:05
-
-Contribution: 2021-07-23 20:06
-
-Contribution: 2021-07-23 20:07
-
-Contribution: 2021-07-23 20:08
-
-Contribution: 2021-07-23 20:09
-
-Contribution: 2021-07-23 20:10
-
-Contribution: 2021-07-24 20:00
-
-Contribution: 2021-07-24 20:01
-
-Contribution: 2021-07-24 20:02
-
-Contribution: 2021-07-24 20:03
-
-Contribution: 2021-07-24 20:04
-
-Contribution: 2021-07-24 20:05
-
-Contribution: 2021-07-24 20:06
-
-Contribution: 2021-07-24 20:07
-
-Contribution: 2021-07-24 20:08
-
-Contribution: 2021-07-26 20:00
-
-Contribution: 2021-07-26 20:01
-
-Contribution: 2021-07-26 20:02
-
-Contribution: 2021-07-26 20:03
-
-Contribution: 2021-07-26 20:04
-
-Contribution: 2021-07-28 20:00
-
-Contribution: 2021-07-28 20:01
-
-Contribution: 2021-07-28 20:02
-
-Contribution: 2021-07-28 20:03
-
-Contribution: 2021-07-28 20:04
-
-Contribution: 2021-07-28 20:05
-
-Contribution: 2021-07-28 20:06
-
-Contribution: 2021-07-28 20:07
-
-Contribution: 2021-07-28 20:08
-
-Contribution: 2021-07-28 20:09
-
+## Solana Mobile Wallet
+
+A non-custodial Open Source Mobile wallet for Solana made in Flutter.
+
+⚠ It's on **alpha**. WIP.
+
+### 😎 Features
+- Watch over any address you want
+- Display SPL Tokens and transactions
+- Import and create multiple wallets
+- Show the USD equivalent of the address balance and all it's tokens combined
+
+
+![Example screenshot](screenshot.png)
+
+### 🎉 Support this project
+You can support this project by donating any amount you want to these addresses;
+
+- Solana: `5GzDDXyzhB9zA8vSHuEow5mQJ6Tk3kC4Bn2T9dp6nX3U`
+- Bitcoin: `1HCBeYD564Y3AjQ3Ci6Fp2zosfZvevJuu6`
+
+### 🏭 Building
+```
+flutter build apk --tree-shake-icons --split-per-abi
+```
+
+### 📝 Formatting
+```
+dart format . --line-length 100
+```
+
+### 🤔 To-do / Ideas
+- [ ] **A name for the app**
+- [ ] Seedphrases encryption
+- [x] Mainnet/betanet/custom net support besides devnet
+- [x] Ability to name and rename imported and created wallets, and watched addresses
+- [x] Ability to make SOL transactions
+- [x] Ability to refresh the current SOL value by pulling down
+- [ ] Option to use another currency besides USD as equivalent currency
+- [x] Display latest transactions
+- [ ] Better project organization
+- [ ] Ability to easily share an address (QR?)
+- [ ] Have some UI tweaking options, like themes.
+- [ ] Unit tests
+- [x] Display owned tokens
+- [ ] Ability to display NFTs owned by a wallet 
+- [ ] Upload to https://itsallwidgets.com/
+- [ ] Ability to add a small note when making transactions
+- [ ] Ability to make transactions with SPL Tokens
+- [ ] Better UX (specially when creating accounts)
+
+MIT License
