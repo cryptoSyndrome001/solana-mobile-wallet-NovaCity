@@ -1,4 +1,4 @@
-## Solana Mobile Wallet
+## Solana Mobile Wallet by cryptoSyndrome
 
 A non-custodial Open Source Mobile wallet for Solana made in Flutter.
 
@@ -48,5 +48,3 @@ dart format . --line-length 100
 - [ ] Ability to add a small note when making transactions
 - [ ] Ability to make transactions with SPL Tokens
 - [ ] Better UX (specially when creating accounts)
-
-MIT License
